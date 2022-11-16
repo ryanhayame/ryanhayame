@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 My portfolio is available **[here](ryanhayame.github.io/portfolio)**
-
 - 📫 How to reach me **ryanh797@gmail.com**
 
-- 📄 View my resume **[here](https://drive.google.com/file/d/1R42mGswGIqObSWt-yvKVTlv5y-KJGHrC/view?usp=sharing)**
+- 👨‍💻 My portfolio is available **[here](ryanhayame.github.io/portfolio)**
+
+- 📄 My resume is available **[here](https://drive.google.com/file/d/1R42mGswGIqObSWt-yvKVTlv5y-KJGHrC/view?usp=sharing)**
 
 - ⚡ Fun fact **I have a pet shiba inu named Miso**
 
