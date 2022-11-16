@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I have a pet shiba inu named Miso**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
