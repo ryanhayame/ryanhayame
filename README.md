@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **An Online AI Pictionary Web Game**
 
-- 🌱 I’m currently learning **MERN**
-
 - 📫 How to reach me **ryanh797@gmail.com**
 
 - 👨‍💻 My portfolio is available **[here](ryanhayame.github.io/portfolio)**
