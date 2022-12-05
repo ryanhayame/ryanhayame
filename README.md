@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ryanh797@gmail.com**
 
-- 👨‍💻 My portfolio is available **[here](ryanhayame.github.io/portfolio)**
+- 👨‍💻 My portfolio is available **[here](https://ryanhayame.github.io/portfolio)**
 
 - 📄 My resume is available **[here](https://drive.google.com/file/d/1R42mGswGIqObSWt-yvKVTlv5y-KJGHrC/view?usp=sharing)**
 
