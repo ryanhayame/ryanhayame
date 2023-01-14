@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Hayame</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **An Online AI Pictionary Web Game**
+- 🔭 I just finished a new project called **[AI Pictionary with Friends](https://github.com/ryanhayame/AI-Pictionary-With-Friends)**
 
 - 📫 How to reach me **ryanh797@gmail.com**
 
