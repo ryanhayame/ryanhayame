@@ -3,7 +3,7 @@
 
 - 🔥 I just finished a new project called **[AI Pictionary with Friends](https://github.com/ryanhayame/AI-Pictionary-With-Friends)**
 
-- 📫 How to reach me **ryanh797@gmail.com**
+- 📫 Contact me at **ryanh797@gmail.com**
 
 - 👨‍💻 My portfolio is available **[here](https://ryanhayame.github.io/portfolio)**
 
