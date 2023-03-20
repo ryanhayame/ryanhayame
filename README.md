@@ -3,7 +3,7 @@
 
 - 🔥 I just finished a new project called **[AI Pictionary with Friends](https://github.com/ryanhayame/AI-Pictionary-With-Friends)**
 
-- 👀 My next major project will be an online betting platform. Stay tuned for its release soon!
+- 👀 My next major project will be an online betting platform
 
 - 📫 Contact me at **ryanh797@gmail.com**
 
