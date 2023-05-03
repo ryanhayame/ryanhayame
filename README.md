@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Hayame</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 👀 My next major project will be a fantasy esports betting website called **[YouPicks](https://youpicks.net)**
+- 👀 My next project will be a fantasy esports betting website, check out the beta here: **[YouPicks](https://youpicks.net)**
 
 - 🔥 I just finished a new project called **[AI Pictionary with Friends](https://github.com/ryanhayame/AI-Pictionary-With-Friends)**
 
