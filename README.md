@@ -11,7 +11,7 @@
 
 - 📄 My resume is available **[here](https://drive.google.com/file/d/1Dgu7qCW1ye2P0XMeg6QznuxbVA_ogvs3/view?usp=sharing)**
 
-- 🐶 Fun fact: **I have a pet shiba inu named Miso**
+- 🐶 Fun fact: I have a pet shiba inu named Miso
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
