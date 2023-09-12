@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio is available **[here](https://ryanhayame.github.io/portfolio)**
 
-- 📄 My resume is available **[here](https://drive.google.com/file/d/15BGghWd6spJ56MTGIFNuIl68A1KscvYA/view?usp=sharing)**
+- 📄 My resume is available **[here](https://drive.google.com/file/d/1TxNh42Q2EYzd2pExA_s_Y3XsF_06Z417/view?usp=sharing)**
 
 - 🐶 Fun fact: I have a pet shiba inu named Miso
 
