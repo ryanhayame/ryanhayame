@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Hayame</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 👀 Co-founder and Lead Full Stack Developer of **[YouPicks](https://youpicks.net)**
+- 👀 Co-founder and Lead Full Stack Developer of **[YouPicks](https://youpicks.net)**, an fantasy esports platform
 
 - 🔥 I just finished a new project called **[AI Pictionary with Friends](https://github.com/ryanhayame/AI-Pictionary-With-Friends)**
 
