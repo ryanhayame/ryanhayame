@@ -3,7 +3,7 @@
 
 - 👀 Co-founder and Lead Full Stack Developer of **[YouPicks](https://youpicks.net)**, a daily fantasy esports platform
 
-- 🔥 I just finished a new project called **[AI Pictionary with Friends](https://github.com/ryanhayame/AI-Pictionary-With-Friends)**
+- 🔥 I just finished a new AI Stable Diffusion project called **[AI Pictionary with Friends](https://github.com/ryanhayame/AI-Pictionary-With-Friends)**
 
 - 📫 Contact me at **ryanh797@gmail.com**
 
